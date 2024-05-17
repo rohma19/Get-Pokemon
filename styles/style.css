@@ -47,9 +47,9 @@ body {
 #btn {
   padding: 20px 20px;
   font-size: 1.5rem;
-  background-color: #4caf50;
+  background-color: #7c305e;
   border: none;
-  color: white;
+  color: rgb(242, 238, 14);
   cursor: pointer;
   border-radius: 20px;
 }
